@@ -17,7 +17,7 @@ Most production work is in private GitLab repos. What's here:
 - **[langfuse-langchain-openrouter-telemetry-demo](https://github.com/Andrew8xx8/langfuse-langchain-openrouter-telemetry-demo)** — patched Langfuse to track cost across OpenRouter pipelines. Needed it, didn't exist, built it.
 - **[awesome-cropper](https://github.com/Andrew8xx8/awesome-cropper)** — image cropper lib, 45 stars.
 - **[left-gpt](https://github.com/Andrew8xx8/left-gpt)** — GPT product with Terraform infra.
-— Wrote code for [GitLab](https://github.com/gitlabhq/gitlabhq/commits?author=Andrew8xx8) at Undev in 2013.
+- Wrote code for [GitLab](https://github.com/gitlabhq/gitlabhq/commits?author=Andrew8xx8) at Undev in 2013.
 
 ### Stack
 
