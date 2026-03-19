@@ -6,6 +6,8 @@
 
 Run the European region at [Dualboot Partners](https://dualbootpartners.com) — 150 engineers, 5 countries. Built it from first hire.
 
+Built learn.dualbootpartners.com — training platform for engineers. 3,400 enrolled, 128 hired. The ru-study-ruby repo is where students submitted assignments (91 forks).
+
 Last two years: figuring out where AI works in real engineering and where it breaks. Built 3PO (reverse-engineers requirements from legacy code via multimodal RAG). Built a presales framework that gets from client intake to working prototype in 24 hours.
 
 ### On GitHub
